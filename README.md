@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fcardao   //Francisco Cardão from Portugal
+- 👀 I’m interested in C, C++, C#, Java, JavaScript, TypeScript, Ladder Logic, ST Language, UML
+- 🌱 I’m currently learning TypeScript.
+- 📫 How to reach me contact afcardao@gmail.com
